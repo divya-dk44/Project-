@@ -8,7 +8,7 @@ import keyboard
 
 
 frame_width=1366
-frame_height=768
+frame_height=800
 ID = 0
 offset=0
 app = Flask(__name__)
